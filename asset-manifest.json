@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/reacthalloween/static/css/main.5cb3a48b.css",
+    "main.js": "/reacthalloween/static/js/main.65836b86.js",
+    "static/media/shape-bg.png": "/reacthalloween/static/media/shape-bg.bdac603e22ae84ddf388.png",
+    "static/media/party-cauldron.png": "/reacthalloween/static/media/party-cauldron.d73421246ba8e82393c0.png",
+    "static/media/home-pumpkin.png": "/reacthalloween/static/media/home-pumpkin.05600219531346b73218.png",
+    "static/media/about-scare.png": "/reacthalloween/static/media/about-scare.3280feaf9f8784ca1c7b.png",
+    "static/media/home-tree1.png": "/reacthalloween/static/media/home-tree1.440764be0982e2f09cb3.png",
+    "static/media/home-tree2.png": "/reacthalloween/static/media/home-tree2.c6cbc17dfa4c9c1fdf13.png",
+    "static/media/item-spider.png": "/reacthalloween/static/media/item-spider.e0f66ee27904aeeed7ae.png",
+    "static/media/item-pumpkin.png": "/reacthalloween/static/media/item-pumpkin.bd6dbb6bbfe66f575ef1.png",
+    "static/media/logo-skull.png": "/reacthalloween/static/media/logo-skull.43d0fe10de594ae94ad7.png",
+    "static/media/category-ghost.png": "/reacthalloween/static/media/category-ghost.13078de2625caec7c596.png",
+    "static/media/stars.png": "/reacthalloween/static/media/stars.1170396c7d150cd63bfc.png",
+    "static/media/category-witch-hat.png": "/reacthalloween/static/media/category-witch-hat.5f7d0a816377a25e553f.png",
+    "static/media/item-witch-hat.png": "/reacthalloween/static/media/item-witch-hat.5f7d0a816377a25e553f.png",
+    "static/media/item-apple.png": "/reacthalloween/static/media/item-apple.c97a23e9c69b223be22b.png",
+    "static/media/nav-bat.png": "/reacthalloween/static/media/nav-bat.17a19b40df41cf521905.png",
+    "index.html": "/reacthalloween/index.html",
+    "main.5cb3a48b.css.map": "/reacthalloween/static/css/main.5cb3a48b.css.map",
+    "main.65836b86.js.map": "/reacthalloween/static/js/main.65836b86.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5cb3a48b.css",
+    "static/js/main.65836b86.js"
+  ]
+}
