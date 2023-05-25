@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/reacthalloween/static/css/main.5cb3a48b.css",
+    "main.css": "/reacthalloween/static/css/main.5af9df22.css",
     "main.js": "/reacthalloween/static/js/main.00643ba2.js",
     "static/media/shape-bg.png": "/reacthalloween/static/media/shape-bg.bdac603e22ae84ddf388.png",
     "static/media/party-cauldron.png": "/reacthalloween/static/media/party-cauldron.d73421246ba8e82393c0.png",
@@ -18,11 +18,11 @@
     "static/media/item-apple.png": "/reacthalloween/static/media/item-apple.c97a23e9c69b223be22b.png",
     "static/media/nav-bat.png": "/reacthalloween/static/media/nav-bat.17a19b40df41cf521905.png",
     "index.html": "/reacthalloween/index.html",
-    "main.5cb3a48b.css.map": "/reacthalloween/static/css/main.5cb3a48b.css.map",
+    "main.5af9df22.css.map": "/reacthalloween/static/css/main.5af9df22.css.map",
     "main.00643ba2.js.map": "/reacthalloween/static/js/main.00643ba2.js.map"
   },
   "entrypoints": [
-    "static/css/main.5cb3a48b.css",
+    "static/css/main.5af9df22.css",
     "static/js/main.00643ba2.js"
   ]
 }
